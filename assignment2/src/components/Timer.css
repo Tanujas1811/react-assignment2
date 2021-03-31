@@ -1,0 +1,18 @@
+.timer{
+	margin-top: 40px;
+	width: 0;
+	display: flex;
+	height: 12%;
+	justify-content: center;
+	align-items: center;
+}
+
+.digits{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 3rem;
+	color:#6495ED;
+}
+
+.mili-sec{
+	color: #040849;
+}
